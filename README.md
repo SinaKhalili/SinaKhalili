@@ -10,6 +10,6 @@
 - <details>
   <summary> Let's go deeper :rabbit: </summary>
   Inner dropdown!
-  <details/>
-<details/>
+  </details>
+</details>
 With my newfound readme, I am now super 1337
