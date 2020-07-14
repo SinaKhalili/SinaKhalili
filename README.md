@@ -1,4 +1,4 @@
-<h2> what is poppin' beautiful friend. I be sina <img src="https://sinakhalili.com/media/facebigger.png" width="50"></h2>
+<h2> eyo I'm sina <img src="https://sinakhalili.com/media/facebigger.png" width="50"></h2>
 <img align='right' src="https://gist.github.com/SinaKhalili/766887e91f5318d56dc07560dff7b9eb/raw/6ee0e4452e4dbea445820908c4c515155f647984/sina_fractal_zoom.gif" width="230">
 <img align='left' src="https://gist.github.com/SinaKhalili/766887e91f5318d56dc07560dff7b9eb/raw/6ee0e4452e4dbea445820908c4c515155f647984/sina_fractal_zoom.gif" width="230">
 <p>
