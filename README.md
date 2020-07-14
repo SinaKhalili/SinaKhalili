@@ -55,6 +55,8 @@
 
 **potential internship employers please interpret my readme as proof that i am super 1337**
 
+<br/>
+
 ### <img src="https://cdn.betterttv.net/emote/5acdc7cb31ca5d147369ead8/1x"> Interests <img src="https://cdn.betterttv.net/emote/5acdc7cb31ca5d147369ead8/1x">
 * `(homoiconicity)`
 * quantum computing [big](https://github.com/SinaKhalili/quantum-computing-notes) :atom: [moves](https://github.com/not-classical)
@@ -63,3 +65,4 @@
 * GNU software (church of emacs)
 * sweet [linux customization](https://github.com/SinaKhalili/dotfiles)
 * fun and tasteful [uses](https://mystifying-yonath-9d0f5e.netlify.app/) of [javascript](https://sinakhalili.com)
+* all things computer science 😍
