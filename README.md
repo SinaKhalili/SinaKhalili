@@ -6,8 +6,8 @@
     Computer science student at <a href="http://www.sfu.ca">SFU<img src="https://media.giphy.com/media/Jx9n9pSg9JUJi/giphy.gif" width="30"></a>
   </br>
     Stayin' silly (and extremely underground) on 
-  <a href="https://www.youtube.com/channel/UCrVWVOBoBu7W-aXbApDEuyQ"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Youtube-512.png" width="30">YouTube</a>,
-  <a href="">twitter<img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/twitter-512.png" width="30"/></a>, and
+  <a href="https://www.youtube.com/channel/UCrVWVOBoBu7W-aXbApDEuyQ"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Youtube-512.png" width="30"></a>,
+  <a href=""><img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/twitter-512.png" width="30"/></a>, and
   my <a href="https://sinakhalili.com"><img src="https://sinakhalili.com/media/facebigger.png" width="30"/>website</a>.
 </em></p>
 <details>
