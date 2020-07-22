@@ -69,5 +69,7 @@
 * fun and tasteful [uses](https://mystifying-yonath-9d0f5e.netlify.app/) of [javascript](https://sinakhalili.com)
 * all things computer science 😍
 
-![](https://github-readme-stats.vercel.app/api?username=sinakhalili&show_icons=true&theme=synthwave)
-
+<p align="center">
+  Check out my vanity metrics! 📉 </br>                
+<img src="https://github-readme-stats.vercel.app/api?username=sinakhalili&show_icons=true&theme=synthwave">
+</p>
