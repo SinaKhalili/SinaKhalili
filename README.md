@@ -68,3 +68,6 @@
 * sweet [linux customization](https://github.com/SinaKhalili/dotfiles)
 * fun and tasteful [uses](https://mystifying-yonath-9d0f5e.netlify.app/) of [javascript](https://sinakhalili.com)
 * all things computer science 😍
+
+![](https://github-readme-stats.vercel.app/api?username=sinakhalili&show_icons=true&theme=synthwave)
+
