@@ -42,23 +42,14 @@
   </details>
 </details>
 
-**potential internship employers please interpret my readme as proof that i am super 1337**
-
 ![](https://komarev.com/ghpvc/?username=sinakhalili&label=HEYO+you%27re+BEAUTIFUL+visitor+number&color=bbadff)
 
 <br/>
 
-### <img src="https://cdn.betterttv.net/emote/5acdc7cb31ca5d147369ead8/1x"> Interests <img src="https://cdn.betterttv.net/emote/5acdc7cb31ca5d147369ead8/1x">
-* `(homoiconicity)`
-* quantum computing [big](https://github.com/SinaKhalili/quantum-computing-notes) :atom: [moves](https://github.com/not-classical)
-* extremely useful and worthwhile [programming languages](https://www.youtube.com/watch?v=px2aSX02pqE)
-* artificial intelligence - currently waiting for the singularity ⏰
-* GNU software (church of emacs)
-* sweet [linux customization](https://github.com/SinaKhalili/dotfiles)
-* fun and tasteful [uses](https://mystifying-yonath-9d0f5e.netlify.app/) of [javascript](https://sinakhalili.com)
-* all things computer science 😍
+### <img src="https://cdn.betterttv.net/emote/5acdc7cb31ca5d147369ead8/1x"> Bulleted list of my interests <img src="https://cdn.betterttv.net/emote/5acdc7cb31ca5d147369ead8/1x">
+* interesting things
 
 <p align="center">
-  Check out my vanity metrics! 📉 </br>                
+  vanity 😔 📉 </br>                
 <img src="https://github-readme-stats.vercel.app/api?username=sinakhalili&show_icons=true&theme=synthwave">
 </p>
