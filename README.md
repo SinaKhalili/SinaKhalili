@@ -1,45 +1,55 @@
 <h2> eyo I'm sina <img src="https://sinakhalili.com/media/facebigger.png" width="50"></h2>
 
-  <summary> *Click to open a sweet dropdown about me* </summary>
-  
-- 🔭🔭 hey guys welcome to bullet list 🔭🔭 
-- I don't wanna make the list too long
-- sometimes the formatting breaks and it's just text 😲
-- so I'll just keep it to six entries 👯 
-- hopefully I don't use them all explaining the bullet list 🤔
-- <details>
-    <summary> recursion </summary>
-    <details>
-      <summary> *Click to open a sweet dropdown about me* </summary>
-      - 🔭🔭 hey guys welcome to bullet list 🔭🔭 
-      - I don't wanna make the list too long
-      - sometimes the formatting breaks and it's just text 😲
-      - so I'll just keep it to six entries 👯 
-      - hopefully I don't use them all explaining the bullet list 🤔
-    - <details><summary> recursion </summary>
-          <details>
-              <summary> *Click to open a sweet dropdown about me* </summary>
-            - 🔭🔭 hey guys welcome to bullet list 🔭🔭 
-            - I don't wanna make the list too long
-            - sometimes the formatting breaks and it's just text 😲
-            - so I'll just keep it to six entries 👯 
-            - hopefully I don't use them all explaining the bullet list 🤔
-            - <details> <summary> recursion </summary>
-                <details> <summary> *Click to open a sweet dropdown about me* </summary>
-                  - 🔭🔭 hey guys welcome to bullet list 🔭🔭 
-                  - I don't wanna make the list too long
-                  - sometimes the formatting breaks and it's just text 😲
-                  - so I'll just keep it to six entries 👯 
-                  - hopefully I don't use them all explaining the bullet list 🤔
-                  - <details> <summary> base case </summary>
-                      <img src="https://avatars0.githubusercontent.com/u/20732540?s=96&v=4" width="50">
-                    </details>
+<details>
+  <summary> <b>Click to open a sweet dropdown about me</b> </summary>
+<ul>
+  <li> 🔭🔭 hey guys welcome to bullet list 🔭🔭 </li>
+  <li> I don't wanna make the list too long </li>
+  <li> so I'll just keep it to five entries 👯 </li>
+  <li> hopefully I don't use them all explaining the bullet list 🤔</li>
+  <li> <details>
+        <summary> recursion </summary>
+       <details>
+       <summary> <b>Click to open a sweet dropdown about me</b> </summary>
+      <ul>
+        <li> 🔭🔭 hey guys welcome to bullet list 🔭🔭 </li>
+        <li> I don't wanna make the list too long </li>
+        <li> so I'll just keep it to five entries 👯 </li>
+        <li> hopefully I don't use them all explaining the bullet list 🤔</li>
+        <li> <details>
+              <summary> recursion </summary>
+             <details>
+             <summary> <b>Click to open a sweet dropdown about me</b> </summary>
+            <ul>
+              <li> 🔭🔭 hey guys welcome to bullet list 🔭🔭 </li>
+              <li> I don't wanna make the list too long </li>
+              <li> so I'll just keep it to five entries 👯 </li>
+              <li> hopefully I don't use them all explaining the bullet list 🤔</li>
+              <li> <details>
+                    <summary> recursion </summary>
+                   <details>
+                   <summary> <b>Click to open a sweet dropdown about me</b> </summary>
+                    <ul>
+                      <li> 🔭🔭 hey guys welcome to bullet list 🔭🔭 </li>
+                      <li> I don't wanna make the list too long </li>
+                      <li> so I'll just keep it to five entries 👯 </li>
+                      <li> hopefully I don't use them all explaining the bullet list 🤔</li>
+                      <li> 
+                        <details> <summary> base case </summary>
+                          <img src="https://i.pinimg.com/originals/19/7d/3a/197d3af9877d8205bbf21667b7393554.jpg" width="150">
+                        </details>
+                      </li>
+                     </ul>
                 </details>
               </details>
           </details>
         </details>
-    </details>
-  </details>
+          </details> </li>
+         </ul>
+    </details> </li>
+  </ul>
+  </details> </li>
+</ul>
 </details>
 
 ![](https://komarev.com/ghpvc/?username=sinakhalili&label=HEYO+you%27re+BEAUTIFUL+visitor+number&color=bbadff)
